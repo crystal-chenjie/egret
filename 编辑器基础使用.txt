@@ -1,0 +1,27 @@
+
+egret 编辑器快捷键
+
+错误和警告
+
+当文件出现语法错误或者警告时，将提示错误，使用快捷键 Ctrl+Shift+M 查看所有的错误
+
+
+多选 （多个光标选择）
+
+EgretWing支持多个光标，可以快速编辑相似的文本。 可以使用 Alt+Click 快捷键添加多个光标，每一个光标都是独立的。
+也可以使用 Ctrl+Alt+Down 或者 Ctrl+Alt+Up 在下面或者上面插入光标。
+
+跨行选择（多个光标选中一行中的多个）
+
+按住 Shift+Alt 移动光标可以选择多行文本。
+
+  折叠 (Ctrl+Shift+[)
+  展开 (Ctrl+Shift+])
+  折叠所有 (Ctrl+K Ctrl+O)
+  展开 (Ctrl+K Ctrl+J)
+
+常用快捷键
+  切换到上一个编辑器 (Ctrl+Tab)
+  切换到上一个编辑位置 (Alt+Left)
+  格式化代码 (Shift+Alt+F)
+  删除当前行 (Ctrl+Shift+k)
