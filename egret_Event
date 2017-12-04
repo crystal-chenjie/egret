@@ -1,0 +1,19 @@
+
+添加/删除显示对象到显示列表
+egret.Event.ADDED : 将显示对象添加到显示列表中调度
+egret.Event.REMOVED: 将要从显示列表中删除显示对象时调度
+
+添加/删除显示对象到显示舞台
+egret.Event.ADD_TO_STAGE ：将显示对象直接添加到舞台显示列表 或将包含显示对象的子树添加至舞台显示
+egret.Event.REMOVEED_FROM_STAGE  : 在从显示列表中直接删除包含显示对象的子树时调度
+
+开始/结束 接触屏幕
+egret.TouchEvent.TOUCH_BEGIN : 将用户第一次触摸到手机屏幕上时 调用 即按下的操作
+egret.TouchEvent.TOUCH_END: 手指从手机屏幕上拿起的时候
+
+移动/点击 屏幕
+egret.TouchEvent.TOUCH_MOVE: 即手指在屏幕上移动时 调用
+egret.TouchuEvent. TOUCH_TAP :当用户在启用触摸设备上的已启动接触的同一DisplayObject 实例上抬起接触点 即点击事件
+
+切水果手指滑动
+egret.TouchEvent.TOUCH_RELEASE_OUTSIDE  按住屏幕上的某个对象 然后从他上面挪开后再松开手指  （切水果时操作）
