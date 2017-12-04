@@ -1,0 +1,3 @@
+  	egret.DisplayObject  --> egret.EventDispatcher -->egret.HashObject
+    egret.DisplayObject  放在显示列表中的所有对象的基类,该显示列表管理运行时中显示的所有对象。
+    使用 DisplayObjectContainer 类 排列显示列表中的显示对象
